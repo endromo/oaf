@@ -12,7 +12,7 @@ You will need the following things properly installed on your computer.
 ## Current Versions
 
 - airflow: 1.10.x
-- python: 3.7.x
+- python: 3.x.x
 
 ## Installation
 
